@@ -1,0 +1,32 @@
+**/.credentials.json
+*~
+.#*
+.git
+*#
+.java-version
+
+# os x stuff
+*Thumbs.db*
+*.DS_Store
+
+# Build artifacts
+target
+
+# Eclipse files
+.classpath
+.project
+.settings
+
+# Intellij IDEA files
+*.ipr
+*.iws
+*.iml
+*.idea
+workspace.xml
+atlassian-ide-plugin.xml
+*.sc
+
+# doc settings
+docs/reference/public
+docs/landing/public
+docs/hugo*
